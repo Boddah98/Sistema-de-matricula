@@ -1,0 +1,23 @@
+{
+  "name": "be-server",
+  "version": "1.0.0",
+  "description": "consumo de datos para la aplicación web de sistema de matricula",
+  "main": "index.js",
+  "scripts": {
+    "test": "testing"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boddah98/Sistema-de-matricula.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boddah98/Sistema-de-matricula/issues"
+  },
+  "homepage": "https://github.com/Boddah98/Sistema-de-matricula#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
